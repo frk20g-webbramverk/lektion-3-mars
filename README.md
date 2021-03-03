@@ -5,6 +5,9 @@
 Staff List: https://gist.github.com/zocom-christoffer-wallenberg/6f38a719c59bde68959303dadae6b9f6
 
 ## Artiklar
+
+Att tänka i Vue: https://gist.github.com/zocom-christoffer-wallenberg/5d14dc253f465d1093ce303be7321f6b
+
 String case style: https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841
 
 Computed props: https://vuejs.org/v2/guide/computed.html
