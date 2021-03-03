@@ -18,6 +18,8 @@ En bra artikel om mindset när man skapar komponenter i Vue: https://www.telerik
 
 ## Videor
 
+Vue tutorial: https://scrimba.com/learn/learnvue
+
 Vue CLI: https://vimeo.com/509686164
 
 ## Inspelningar
